@@ -6,10 +6,12 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Parent />
+        <Parent /> 
       </div>
     )
   }
 }
 
 export default App
+
+//renders a single Parent component with two child components (in Parent )
